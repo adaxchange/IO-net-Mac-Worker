@@ -76,15 +76,15 @@
 
 > Workerimizin kesilmemesi için bilgisayarımız 7/24 açık kalmalı. Şimdi bunun için bazı ayarlar yapalım.
 
- Sistem Ayarları - Kilitli Ekran menüsüne gelip oradaki ekran koruyucu ve ekranı kapatma ayarlarını 'Asla' yapalım.
+    Sistem Ayarları - Kilitli Ekran menüsüne gelip oradaki ekran koruyucu ve ekranı kapatma ayarlarını 'Asla' yapalım.
 
- Sonrasında Sistem Ayarları - Pil menüsüne gelip 'Seçenekler' diyelim. Uyku durumuna geçmesini engelleyi açıp, sabit diskleri uyku moduna geçiri 'Asla' yapalım.
+    Sonrasında Sistem Ayarları - Pil menüsüne gelip 'Seçenekler' diyelim. Uyku durumuna geçmesini engelleyi açıp, sabit diskleri uyku moduna geçiri 'Asla' yapalım.
 
 > Worker'imiz internet kopma sorunları veya başka sorunlar nedeniyle 'Failed' 'Inactive' konumuna geçebilir. Böyle olduğu takdirde bir süre bekleyip düzelmezse workeri yeniden başlatmamız gerekiyor.
 
- Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
+    Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
 
- Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
+    Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
 
 > Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
