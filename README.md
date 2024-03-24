@@ -18,9 +18,6 @@
 > Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
 #
 #
-#
-#
-#
 
 
 
