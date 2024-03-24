@@ -76,6 +76,20 @@ Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmınd
 
 Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
 
+# WORKER'I TAMAMEN SİLMEK
+
+> Worker'i bazı durumlarda tamamen silmemiz gerekebilir. Bu durumlar workeri bir türlü kuramadığımız ve hatalardan kurtulamadığımız zamanlar olabilir.
+
+Bunun için io.net sitesinde workerinize gelip 'terminate' kısmından dockeri terminate ediniz.
+
+Sonrasında docker uygulamamıza gelip containers ve image kısmındaki her şeyi silelim.
+
+Terminale aşağıdaki kodu girip enterleyelim.
+
+docker stop $(docker ps -aq) && docker rm -fv $(docker ps -aq) && docker system prune -af
+
+Son olarak docker uygulamasında sol alt köşeden restartlayalım, pcyi restartlayalım ve bütün kurma işlemlerini baştan gerçekleştirelim. Tertemiz bir yeniden kurulum.
+
 # BAZI YAPILMASI GEREKENLER VE SIK SORULAN SORULAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
