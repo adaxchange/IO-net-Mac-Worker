@@ -16,7 +16,11 @@
 > Mac cihazlarda iş alınıp tamamlanabilmesi için önerilen internet upload hızı 250mbit ve ram ise 16GB.
   
 > Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
-
+#
+#
+#
+#
+#
 
 
 
