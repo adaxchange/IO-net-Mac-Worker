@@ -11,11 +11,11 @@
 > Bilgisayarımıza kurduğumuz nodeler sayesinde bilgisayarımızın donanımını başka kişilere kiralamış oluyoruz; bu iş oluyor. Worker'ın çalışma amacı da bu.
 
   # Kurduğumuz worker'ler iş alırsa IO-net projesinden daha fazla airdrop kazanacağız.
-  Worker'in iş alması veya aldığı işi tamamlayabilmesi için işlemci gücü yeterli olmuyor. Burada devreye ram, internet hızı faktörleri devreye girer.
+> Worker'in iş alması veya aldığı işi tamamlayabilmesi için işlemci gücü yeterli olmuyor. Burada devreye ram, internet hızı faktörleri devreye girer.
   
-  Mac cihazlarda iş alınıp tamamlanabilmesi için önerilen internet upload hızı 250mbit ve ram ise 16GB.
+> Mac cihazlarda iş alınıp tamamlanabilmesi için önerilen internet upload hızı 250mbit ve ram ise 16GB.
   
-  Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
+> Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
 
 > Airdrop alabilmek için worker kurmuş olmamız yeterli olacak. Fakat bazı kriterler elbette var.
 
