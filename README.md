@@ -50,12 +50,16 @@
 
   Girdikten sonra kenarda bıraktığımız io.net sitesine tekrar geçelim ve oradaki kodların bir tanesini yapıştırıp enterleyip diğerine geçeceğiz.
 
+  Aşağıdaki kodların birini yazıp enterleyip sonra diğerine geçiniz lütfen.
+
   ```console
   curl -L https://github.com/ionet-official/io_launch_binaries/raw/main/launch_binary_mac -o launch_binary_mac
 
   chmod +x launch_binary_mac
 
-  Son olarak da size verilen 'Run the command to connect the device' kısmındaki kodu yapıştırıp enterleyin. VE BU 3. KODU LÜTFEN BİLGİSAYARINIZDA NOT DEFTERİNDE SAKLAYIN. SONRADAN WORKER'I RESTART ETMEMİZ GEREKTİĞİNDE VESAİRE BİZE GEREKECEK.
+  Son olarak da size verilen 'Run the command to connect the device' kısmındaki kodu yapıştırıp enterleyin.
+
+  VE BU 3. YANİ SON KODU LÜTFEN BİLGİSAYARINIZDA NOT DEFTERİNDE SAKLAYIN. SONRADAN WORKER'I RESTART ETMEMİZ GEREKTİĞİNDE VESAİRE BİZE GEREKECEK.
 ```
 
   Worker kurma işlemimiz bitmiştir. İo'net sitesinde sayfayı yenileyerek durumu kontrol edebilirsiniz. Maksimum yarım saat içerisinde yeşile dönmeli ve 'Running' yazmalı.
