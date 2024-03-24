@@ -64,7 +64,7 @@
   VE BU 3. YANİ SON KODU LÜTFEN BİLGİSAYARINIZDA NOT DEFTERİNDE SAKLAYIN. SONRADAN WORKER'I RESTART ETMEMİZ GEREKTİĞİNDE VESAİRE BİZE GEREKECEK.
 ```
 
-  Worker kurma işlemimiz bitmiştir. İo'net sitesinde sayfayı yenileyerek durumu kontrol edebilirsiniz. Maksimum yarım saat içerisinde yeşile dönmeli ve 'Running' yazmalı.
+  Worker kurma işlemimiz bitmiştir. İo'net sitesinde sayfayı yenileyerek durumu kontrol edebilirsiniz. Maksimum yarım saat içerisinde yeşile dönmeli ve 'Running' yazmalı. Turuncu bir şekilde 'Idle' olarak güzüküyorsanız worker'ınız hazır ve boşta demektir.
 
   Ayrıca indirdiğimiz docker uygulamasında da container kısmında 2, images kısmında 3 farklı şey olmalı. Bunları da kontrol ediniz yarım saat sonra.
 
