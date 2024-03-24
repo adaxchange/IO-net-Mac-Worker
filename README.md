@@ -96,6 +96,12 @@ docker system prune -af
 
 Son olarak docker uygulamasında sol alt köşeden restartlayalım, pcyi restartlayalım ve bütün kurma işlemlerini baştan gerçekleştirelim. Tertemiz bir yeniden kurulum.
 
+# WORKER DURDURMA
+
+> Worker'imizi bazı durumlarda durdurmamız gerekebilir. Örneğin internetten kopacağızdır veya bilgisayarı kapatmamız gerekiyordur. Bu durumda normalde site üzerinden pause diyerek yapabiliriz fakat bu aralar arayüz bozuk bu yüzden bunu docker üzerinden yapacağız.
+
+Dockerdeki containers kısmındaki 2 container yanındaki üç noktalara tıklayıp pause yapıyoruz. Geri başlatmak istediğimizde ise yine docker üzerinden start diyoruz.
+
 # BAZI YAPILMASI GEREKENLER VE SIK SORULAN SORULAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
