@@ -68,7 +68,15 @@
 
   Ayrıca indirdiğimiz docker uygulamasında da container kısmında 2, images kısmında 3 farklı şey olmalı. Bunları da kontrol ediniz yarım saat sonra.
 
-  # BUG FIX, RESTART VE SIK SORULAN SORULAR
+  # RESTART
+
+> Worker'imiz internet kopma sorunları veya başka sorunlar nedeniyle 'Failed' 'Inactive' konumuna geçebilir. Böyle olduğu takdirde bir süre bekleyip düzelmezse workeri yeniden başlatmamız gerekiyor.
+
+Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
+
+Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
+
+# SIK SORULAN SORULAR VE HATALAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
 
@@ -79,12 +87,6 @@
 Sistem Ayarları - Kilitli Ekran menüsüne gelip oradaki ekran koruyucu ve ekranı kapatma ayarlarını 'Asla' yapalım.
 
 Sonrasında Sistem Ayarları - Pil menüsüne gelip 'Seçenekler' diyelim. Uyku durumuna geçmesini engelleyi açıp, sabit diskleri uyku moduna geçiri 'Asla' yapalım.
-
-> Worker'imiz internet kopma sorunları veya başka sorunlar nedeniyle 'Failed' 'Inactive' konumuna geçebilir. Böyle olduğu takdirde bir süre bekleyip düzelmezse workeri yeniden başlatmamız gerekiyor.
-
-Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
-
-Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
 
 > Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
