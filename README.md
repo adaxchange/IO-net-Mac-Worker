@@ -84,7 +84,7 @@ Bunun için io.net sitesinde workerinize gelip 'terminate' kısmından dockeri t
 
 Sonrasında docker uygulamamıza gelip containers ve image kısmındaki her şeyi silelim.
 
-Terminale aşağıdaki kodu girip enterleyelim.
+Terminale aşağıdaki kodları teker teker enterleyelim.
 
 docker stop
 
