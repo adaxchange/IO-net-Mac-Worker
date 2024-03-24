@@ -6,7 +6,7 @@
 
 > İlk olarak kurulum yapabilmek için Mac cihazlarımızın silikon işlemcilerden M1 ve sonrası olması yeterli.
 
-  Worker konusunu iki bakımdan inceleyebiliriz: Airdrop ve İş.
+> Worker konusunu iki bakımdan inceleyebiliriz: Airdrop ve İş.
   
 > Bilgisayarımıza kurduğumuz nodeler sayesinde bilgisayarımızın donanımını başka kişilere kiralamış oluyoruz; bu iş oluyor. Worker'ın çalışma amacı da bu.
 
@@ -19,9 +19,9 @@
 
 > Airdrop alabilmek için worker kurmuş olmamız yeterli olacak. Fakat bazı kriterler elbette var.
 
-  Öncelikle donanım özellikleri olarak bir çarpan sistemi var. Şanslıyız ki Mac cihazlar bu listenin başlarında.
+> Öncelikle donanım özellikleri olarak bir çarpan sistemi var. Şanslıyız ki Mac cihazlar bu listenin başlarında.
   
-  Sonrasında insanlar internet hızlarına göre tierlere ayrılacak ve çarpan olacak.
+> Sonrasında insanlar internet hızlarına göre tierlere ayrılacak ve çarpan olacak.
   
   # En önemli kriter ise Uptime yani worker'in çalışma süresi. Bu yüzden erken çalıştırmak ve uzun süre açık tutmak çok önemli.
   # Tekrarlıyorum ki airdrop için iş almak bir çarpan olacak fakat şart değil.
