@@ -4,6 +4,8 @@
 
 > Sağ yukarıdan starlayarak repoya destek verebilirsiniz.
 
+> Sayfanın en alt kısmında sık sorulan soruları ve karşılaşılan hataları cevapladım göz atabilirsiniz.
+
 > İlk olarak kurulum yapabilmek için Mac cihazlarımızın silikon işlemcilerden M1 ve sonrası olması yeterli.
 
 > Worker konusunu iki bakımdan inceleyebiliriz: Airdrop ve İş.
@@ -66,7 +68,7 @@
 
   Ayrıca indirdiğimiz docker uygulamasında da container kısmında 2, images kısmında 3 farklı şey olmalı. Bunları da kontrol ediniz yarım saat sonra.
 
-  # BUG FIX, RESTART VE HATALAR
+  # BUG FIX, RESTART VE SIK SORULAN SORULAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
 
@@ -83,5 +85,7 @@
  Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
 
  Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
+
+> Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
  Karşılaşılan hatalar geldikçe buraya eklenecektir. Komüniteye katılmak için [discord](https://discord.com/invite/ionetofficial) sunucusuna gelebilirsiniz.
