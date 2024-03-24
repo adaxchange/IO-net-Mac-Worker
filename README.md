@@ -15,7 +15,7 @@
   # Kurduğumuz worker'ler iş alırsa IO-net projesinden daha fazla airdrop kazanacağız.
 > Worker'in iş alması veya aldığı işi tamamlayabilmesi için işlemci gücü yeterli olmuyor. Burada devreye ram, internet hızı faktörleri devreye girer.
   
-> Mac cihazlarda iş alınıp tamamlanabilmesi için önerilen internet upload hızı 250mbit ve ram ise 16GB.
+> Mac cihazlarda iş alınıp tamamlanabilmesi için önerilen internet upload hızı 250mbit ve ram ise 16GB. Worker'larımız iş aldığında airdrop dışında da ekstra saatlik iş ücreti kazanıyoruz.
   
 > Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
 #
@@ -117,5 +117,7 @@ Sonrasında Sistem Ayarları - Pil menüsüne gelip 'Seçenekler' diyelim. Uyku 
 > Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
 > Evet mac cihazlar şu anda iş alamıyor kısa bir süre sonra gerçekleşecek güncellemeyle iş almaya başlayacaklar.
+
+> Mac cihazları iş almaya başladı evet ama ne kadar kazanacağım iş alarak? İşte [burada](https://cloud.io.net/explorer/home)  
 
  Karşılaşılan hatalar geldikçe buraya eklenecektir. Komüniteye katılmak için [discord](https://discord.com/invite/ionetofficial) sunucusuna gelebilirsiniz.
