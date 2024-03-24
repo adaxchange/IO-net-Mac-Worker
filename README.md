@@ -86,6 +86,8 @@ Sonrasında docker uygulamamıza gelip containers ve image kısmındaki her şey
 
 Terminale aşağıdaki kodu girip enterleyelim.
 
+docker stop $(docker ps -aq) && docker rm -fv $(docker ps -aq) && docker system prune -af
+
 Son olarak docker uygulamasında sol alt köşeden restartlayalım, pcyi restartlayalım ve bütün kurma işlemlerini baştan gerçekleştirelim. Tertemiz bir yeniden kurulum.
 
 # BAZI YAPILMASI GEREKENLER VE SIK SORULAN SORULAR
