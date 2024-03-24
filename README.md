@@ -4,7 +4,7 @@
 
 > Sağ yukarıdan starlayarak repoya destek verebilirsiniz.
 
-> Sayfanın en alt kısmında sık sorulan soruları ve karşılaşılan hataları cevapladım göz atabilirsiniz.
+> Sayfanın en alt kısmında sık sorulan soruları ve yapılması gerekenleri cevapladım göz atabilirsiniz.
 
 > İlk olarak kurulum yapabilmek için Mac cihazlarımızın silikon işlemcilerden M1 ve sonrası olması yeterli.
 
@@ -76,7 +76,7 @@ Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmınd
 
 Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
 
-# SIK SORULAN SORULAR VE HATALAR
+# BAZI YAPILMASI GEREKENLER VE SIK SORULAN SORULAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
 
