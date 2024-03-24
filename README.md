@@ -17,6 +17,9 @@
   
 > Fakat bunlar gözünüzü korkutmasın. Worker kurmanın tek amacı iş alabilmek değil, burada da airdrop devreye giriyor.
 
+
+
+
 > Airdrop alabilmek için worker kurmuş olmamız yeterli olacak. Fakat bazı kriterler elbette var.
 
 > Öncelikle donanım özellikleri olarak bir çarpan sistemi var. Şanslıyız ki Mac cihazlar bu listenin başlarında.
