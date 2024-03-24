@@ -88,4 +88,6 @@
 
 > Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
+> Evet mac cihazlar şu anda iş alamıyor kısa bir süre sonra gerçekleşecek güncellemeyle iş almaya başlayacaklar.
+
  Karşılaşılan hatalar geldikçe buraya eklenecektir. Komüniteye katılmak için [discord](https://discord.com/invite/ionetofficial) sunucusuna gelebilirsiniz.
