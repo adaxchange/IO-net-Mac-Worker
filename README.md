@@ -116,6 +116,14 @@ Sonrasında Sistem Ayarları - Pil menüsüne gelip 'Seçenekler' diyelim. Uyku 
 
 > Birden fazla cihazım var ve birden fazla worker kurmak istiyorum ne yapmalıyım? Birden fazla worker kurabilirsiniz fakat bu workerleri lütfen sadece bir tane io.net hesabının altında kurun.
 
+> Worker kurarken 3. kodu yazıyorum fakat 'bad cpu type in executable' hatası alıyorum ne yapmalıyım?
+
+Rosetta indirmeniz gerekli. Terminali açın ve aşağıda verdiğim kodu girin.
+
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license
+
+Successfully installed yazısını gördükten sonra tamamdır. Worker kurulumuna devam edebilirsiniz.
+
 > Evet mac cihazlar şu anda iş alamıyor kısa bir süre sonra gerçekleşecek güncellemeyle iş almaya başlayacaklar.
 
 > Mac cihazları iş almaya başladı evet ama ne kadar kazanacağım iş alarak? İşte [burada](https://cloud.io.net/explorer/home)  
