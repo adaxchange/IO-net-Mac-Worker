@@ -64,7 +64,7 @@
   VE BU 3. YANİ SON KODU LÜTFEN BİLGİSAYARINIZDA NOT DEFTERİNDE SAKLAYIN. SONRADAN WORKER'I RESTART ETMEMİZ GEREKTİĞİNDE VESAİRE BİZE GEREKECEK.
 ```
 
-  Worker kurma işlemimiz bitmiştir. İo'net sitesinde sayfayı yenileyerek durumu kontrol edebilirsiniz. Maksimum yarım saat içerisinde yeşile dönmeli ve 'Running' yazmalı. Turuncu bir şekilde 'Idle' olarak güzüküyorsanız worker'ınız hazır ve boşta demektir.
+  Worker kurma işlemimiz bitmiştir. İo'net sitesinde sayfayı yenileyerek durumu kontrol edebilirsiniz. Maksimum yarım saat içerisinde yeşile dönmeli ve 'Running' yazmalı. Turuncu bir şekilde 'Idle' olarak gözüküyorsanız worker'ınız hazır ve boşta demektir.
 
   Ayrıca indirdiğimiz docker uygulamasında da container kısmında 2, images kısmında 3 farklı şey olmalı. Bunları da kontrol ediniz yarım saat sonra.
 
@@ -80,7 +80,7 @@ Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayı
 
 > Worker'i bazı durumlarda tamamen silmemiz gerekebilir. Bu durumlar workeri bir türlü kuramadığımız ve hatalardan kurtulamadığımız zamanlar olabilir.
 
-Bunun için io.net sitesinde workerinize gelip 'terminate' kısmından dockeri terminate ediniz.
+Bunun için io.net sitesinde workerinize gelip 'terminate' kısmından workeri terminate ediniz.
 
 Sonrasında docker uygulamamıza gelip containers ve image kısmındaki her şeyi silelim.
 
