@@ -74,7 +74,7 @@
 
 Bunun için ilk olarak docker uygulamasına girip Containers ve Images kısmındaki her şeyi silelim. Daha sonrasında sol alttaki üç noktadan dockeri restartlayalım.
 
-Daha sonrasında pc'yi restartlayalım ve size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
+Daha sonrasında size yukarıda not defterinde saklayın dediğim 3. kodu terminali açıp tekrar yapıştırın. Sadece 3. kodu. Ve bir süre sonra worker'iniz tekrar aktif hale gelecektir.
 
 # WORKER'I TAMAMEN SİLMEK
 
