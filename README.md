@@ -102,6 +102,12 @@ Son olarak docker uygulamasında sol alt köşeden restartlayalım, pcyi restart
 
 Dockerdeki containers kısmındaki 2 container yanındaki üç noktalara tıklayıp pause yapıyoruz. Geri başlatmak istediğimizde ise yine docker üzerinden start diyoruz.
 
+# PİL AYARLARI
+
+Worker çalışırken bilgisayarımız sürekli açık kalmalı. Bunun için bazı ayarlar yapalım.
+
+Mac sistem ayarlarına girip 'Kilitli Ekran' menüsünü seçelim. Buradaki ayarların hepsini 'asla' yapalım. Sonrasında yine sol taraftan 'Pil' menüsünü seçelim. Burada seçeneklere tıklayalım. Ekran kapalıyken ve güç adaptörü takılıyken otomatik olarak uyku durumuna geçmesini engelle'yi açalım, mümkün olduğunda sabit diskleri uyku durumuna geçiri 'asla' yapalım.
+
 # BAZI YAPILMASI GEREKENLER VE SIK SORULAN SORULAR
 
 > Proje sitesinde arayüz sorunları yaşandığından uptime skorları ve benzeri fonksiyonlar çalışmayabiliyorlar. Burada önemli olan sizin yeşil olmanız.
